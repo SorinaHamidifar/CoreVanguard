@@ -1,1 +1,1 @@
- focused on innovation, modern practices, 
+ focused on innovation, 
