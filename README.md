@@ -11,7 +11,7 @@
 Main entry point for NextForge.
 """
 
-from core.innovation import Innovat
+from core.innovation import Innovation
 from core.foundation import FoundationCore
 from core.modern import ModernPractices
 
