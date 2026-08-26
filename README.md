@@ -1,5 +1,5 @@
 # ==========================================
-# Project: NextForge forward-lea
+# Project: NextForge forward-
 # Description:
 # A forward-leading repository focused on innovation,
 # modern practices, and strong code foundations.
