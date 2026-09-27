@@ -1,5 +1,5 @@
 # ==========================================
-# Project: NextForge focused  
+# Project: NextForge focu
 # Description:
 # A forward-leading repository focused on innovation,
 # modern practices, and strong code foundations.
