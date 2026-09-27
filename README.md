@@ -1,5 +1,5 @@
 # ==========================================
-# Project: NextForge focused on inno
+# Project: NextForge focused on 
 # Description:
 # A forward-leading repository focused on innovation,
 # modern practices, and strong code foundations.
