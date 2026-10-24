@@ -1,7 +1,7 @@
 # ==========================================
 # Project: NextForge
 # Description:
-# A forward-leading repository focused on innovation,
+# A forward-leading ,
 # modern practices, and strong code foundations.
 # ==========================================
 
