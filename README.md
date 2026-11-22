@@ -13,7 +13,7 @@ Main entry point for NextForge.
 
 from core.innovation import InnovationLab
 from core.foundation import FoundationCore
-from core.modern import 
+from core.modern import Mod
 
 
 def run():
